@@ -1,4 +1,7 @@
-# throttle-factory
+# throttle-factory  
+
+[![Build Status](https://travis-ci.org/camilin87/throttle-factory.svg?branch=master)](https://travis-ci.org/camilin87/throttle-factory)
+
 Another library to throttle calls. Seamlessly throttle calls.
 
 ```js
