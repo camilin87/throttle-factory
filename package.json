@@ -1,0 +1,31 @@
+{
+  "name": "throttle-factory",
+  "version": "1.0.0",
+  "description": "Another library to throttle calls. Seamlessly throttle calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilin87/throttle-factory.git"
+  },
+  "keywords": [
+    "throttle",
+    "calls"
+  ],
+  "author": "@camilin87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilin87/throttle-factory/issues"
+  },
+  "homepage": "https://github.com/camilin87/throttle-factory#readme",
+  "devDependencies": {
+    "async": "^2.0.0-rc.6",
+    "jasmine": "^2.4.1",
+    "rfr": "^1.2.3"
+  },
+  "dependencies": {
+    "simple-rate-limiter": "^0.2.3"
+  }
+}
